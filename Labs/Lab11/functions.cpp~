@@ -1,0 +1,11 @@
+/***********************
+	Brayden Fidler
+	bfidler
+	Lab 10
+	Lab Section 1
+	Nick Glyder
+***********************/
+
+#include "functions.h"
+
+void print_array(vector<int> &nums, int size)
